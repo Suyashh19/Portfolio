@@ -24,15 +24,28 @@ function ProjectCard({ project }) {
         ))}
       </div>
 
-      {/* LINK */}
-      <a
-        href={project.github}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-flex items-center text-blue-400 font-medium group-hover:underline"
-      >
-        View on GitHub →
-      </a>
+      {/* LINKS */}
+      <div className="flex gap-6">
+        <a
+          href={project.github}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center text-blue-400 font-medium group-hover:underline"
+        >
+          GitHub →
+        </a>
+
+        {project.live && (
+          <a
+            href={project.live}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center text-green-400 font-medium group-hover:underline"
+          >
+            Live →
+          </a>
+        )}
+      </div>
 
     </div>
   );

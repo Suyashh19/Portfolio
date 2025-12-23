@@ -23,6 +23,7 @@ function Skills() {
             <ul className="space-y-2 text-gray-300 text-sm">
               <li>C++</li>
               <li>Python</li>
+              <li>JavaScript</li>
             </ul>
           </div>
 

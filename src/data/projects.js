@@ -1,23 +1,26 @@
 export const projects = [
   {
-    title: "Price Prediction System",
+    title: "Cloudinary SaaS Media Vault",
     description:
-      "A machine learning model that predicts prices using regression techniques with proper data preprocessing and evaluation.",
-    tech: ["Python", "scikit-learn", "Pandas"],
-    github: "https://github.com/your-repo-link",
+      "Built a Cloudinary-based SaaS application for secure media upload, optimization, preview, and downloads with a modern web interface.",
+    tech: ["Next.js", "React", "Cloudinary API", "TypeScript", "Tailwind CSS", "Node.js"],
+    github: "https://github.com/Suyashh19/ClOUDINARY-SAAS",
+    live: "https://media-vault-omega.vercel.app/sign-in",
   },
   {
-    title: "Recommendation System",
+    title: "Movie Recommendation System",
     description:
-      "Content-based recommendation system that suggests items based on similarity measures and user preferences.",
-    tech: ["Python", "Machine Learning"],
-    github: "https://github.com/your-repo-link",
+      "Content-based movie recommendation system that suggests similar movies using similarity metrics and preprocessed movie data.",
+    tech: ["Python", "Machine Learning", "Pandas", "Streamlit"],
+    github: "https://github.com/Suyashh19/Movie-Recommender-App",
+    live: "https://movie-recommender-app-hk9zssrecgokfqokvtyv3b4hp.streamlit.app/",
   },
   {
-    title: "AI Chatbot Prototype",
+    title: "Expense Tracker",
     description:
-      "An AI-powered chatbot prototype using large language models with a conceptual memory-based architecture.",
-    tech: ["LLMs", "AI", "NLP"],
-    github: "https://github.com/your-repo-link",
+      "An expense tracking application to record, categorize, and analyze daily expenses through a clean and user-friendly interface.",
+    tech: ["React", "JavaScript","Node.js", "Tailwind CSS"],
+    github: "https://github.com/your-expense-tracker-repo",
+    live: "", // add when deployed
   },
 ];
