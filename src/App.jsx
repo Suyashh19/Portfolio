@@ -6,12 +6,8 @@ import Projects from "./components/Projects";
 import Profiles from "./components/Profiles";
 import Contact from "./components/Contact";
 import Footer from "./components/layout/Footer";
-
-
-
-
-
 import { theme } from "./styles/theme";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -24,6 +20,7 @@ function App() {
       <Profiles />
       <Contact />
       <Footer />
+      <Analytics />
     </div>
   );
 }
