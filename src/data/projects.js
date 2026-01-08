@@ -19,7 +19,7 @@ export const projects = [
     title: "Expense Tracker",
     description:
       "An expense tracking application to record, categorize, and analyze daily expenses through a clean and user-friendly interface.",
-    tech: ["React", "JavaScript","Node.js", "Tailwind CSS"],
+    tech: ["React", "JavaScript","Firebase", "Tailwind CSS" , "Gemini AI"],
     github: "https://github.com/Suyashh19/EXPENCE-TRACKER",
     live: "https://expense-tracker-1869c.web.app/", // add when deployed
   },
