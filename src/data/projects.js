@@ -20,7 +20,7 @@ export const projects = [
     description:
       "An expense tracking application to record, categorize, and analyze daily expenses through a clean and user-friendly interface.",
     tech: ["React", "JavaScript","Node.js", "Tailwind CSS"],
-    github: "https://github.com/your-expense-tracker-repo",
-    live: "", // add when deployed
+    github: "https://github.com/Suyashh19/EXPENCE-TRACKER",
+    live: "https://expense-tracker-1869c.web.app/", // add when deployed
   },
 ];
