@@ -11,7 +11,7 @@ export default function About() {
     },
     {
       icon: <Rocket className={`w-5 h-5 ${theme.accent}`} />,
-      value: "5+",
+      value: "3+",
       label: "Projects Built",
     },
     {
