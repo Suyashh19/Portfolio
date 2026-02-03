@@ -1,16 +1,53 @@
-# React + Vite
+# 🌐 Suyash Patil – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This portfolio represents my journey, skills, and work as a developer and AI/ML enthusiast.
 
-Currently, two official plugins are available:
+## 🚀 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Visit here:**  
+https://portfolio-suyashh19s-projects.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I’m an engineering student focused on **Artificial Intelligence & Machine Learning**, with a strong interest in building real-world, impactful products.  
+This portfolio showcases my skills, experience, and the projects I’ve worked on.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React
+- **Styling:** Tailwind CSS
+- **Tools:** Git, GitHub
+- **Deployment:** Vercel
+
+---
+
+## ✨ Features of This Portfolio
+
+- Clean and modern UI
+- Fully responsive design
+- Smooth navigation and animations
+- Dedicated sections for skills, experience, and projects
+- Easy access to contact and social links
+
+---
+
+## 📫 Contact & Links
+
+- 🐙 GitHub: https://github.com/suyashh19s
+- 📧 Email: suyashpatil7574@gmail.com
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+⭐ If you like my portfolio, feel free to star the repository!
