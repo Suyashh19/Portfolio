@@ -11,7 +11,7 @@ export default function About() {
     },
     {
       icon: <Rocket className={`w-5 h-5 ${theme.accent}`} />,
-      value: "3+",
+      value: "4+",
       label: "Projects Built",
     },
     {
@@ -24,11 +24,11 @@ export default function About() {
   return (
     <section
       id="about"
-      className={`relative py-28 ${theme.text}`}
+      className={`relative py-28 bg-gradient-to-b from-black to-gray-950 ${theme.text}`}
     >
       <div className="max-w-7xl mx-auto px-6">
         {/* Heading */}
-        <div className="mb-16 max-w-3xl">
+        <div className="mb-20 max-w-3xl">
           <h2 className="text-4xl font-bold mb-4">About</h2>
           <p className={`${theme.mutedText} text-lg`}>
             A quick snapshot of who I am and what I focus on.
@@ -36,7 +36,7 @@ export default function About() {
         </div>
 
         {/* Content */}
-        <div className="grid md:grid-cols-2 gap-20">
+        <div className="grid md:grid-cols-2 gap-16 items-center">
           {/* Left text */}
           <div className={`${theme.mutedText} leading-relaxed space-y-6`}>
             <p>
@@ -60,7 +60,7 @@ export default function About() {
           </div>
 
           {/* Right cards */}
-          <div className="space-y-6">
+          <div className="flex flex-col gap-6">
             {highlights.map((item, i) => (
               <div
                 key={i}

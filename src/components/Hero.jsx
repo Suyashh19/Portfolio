@@ -44,7 +44,7 @@ function Hero() {
               <p>DSA Problems</p>
             </div>
             <div>
-              <span className="text-white font-semibold">5+</span>
+              <span className="text-white font-semibold">4+</span>
               <p>Projects</p>
             </div>
             <div>
